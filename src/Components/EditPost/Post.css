@@ -1,0 +1,14 @@
+.post{
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.home{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr)
+}
+
+.input{
+
+    margin-left: 50px;
+}
